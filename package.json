@@ -15,5 +15,6 @@
 		"url": "https://idontknow/todo.git"
 	},
     "author": "kazeem kadiri",
-    "description": "A boilerplate for a nodejs application"
+    "description": "A boilerplate for a nodejs application",
+    "keywords": ["freecodecamp", "node-boilerplate"]
 }
