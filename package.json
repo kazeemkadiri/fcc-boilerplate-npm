@@ -13,6 +13,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
-    "author": "kazeem kadiri"
+	},
+    "author": "kazeem kadiri",
+    "description": "A boilerplate for a nodejs application"
 }
