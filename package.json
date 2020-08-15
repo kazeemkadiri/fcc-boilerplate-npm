@@ -16,5 +16,6 @@
 	},
     "author": "kazeem kadiri",
     "description": "A boilerplate for a nodejs application",
-    "keywords": ["freecodecamp", "node-boilerplate"]
+    "keywords": ["freecodecamp", "node-boilerplate"],
+    "license": "MIT"                                  
 }
