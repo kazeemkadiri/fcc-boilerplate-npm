@@ -19,7 +19,7 @@
     "keywords": ["freecodecamp", "node-boilerplate"],
     "license": "MIT",   
     "dependencies":{
-      "moment": "2.14.0"
+      "moment": "2.10.2"
     },
     "version": "1.0.0",
     
